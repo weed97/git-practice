@@ -4,7 +4,7 @@ public class example {
     public static void main(String[] args) {
 
         System.out.print("Hello World");
-        System.out.println("한글은 써저요");
+        System.out.println("커밋 확인");
 
 
     }
